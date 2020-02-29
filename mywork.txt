@@ -1,0 +1,18 @@
+My associate id:
+845026
+Other team members:
+845026,845087, 845141, 845139, 845138
+Team lead:
+845087
+My Role in team:
+1. To create the services using the json server and developing view order page
+My development files:
+1. models
+2.services->place-order.service.ts
+3.view-order component
+4.place-order.component.ts
+I was strong in:
+1.Doing CRUD operations and Json Server 
+2. Services
+Feedback:
+1. It was good experience in doing the work. Through this I came to know what all we  can do.
